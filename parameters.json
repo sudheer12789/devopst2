@@ -59,7 +59,7 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "winchester"
+            "value": "deanwinchester"
         },
         "virtualMachineRG": {
             "value": "ram"
@@ -74,7 +74,7 @@
             "value": "sudheer217"
         },
         "adminPassword": {
-            "value": null
+            "value": "Venkatasudheer@217"
         },
         "diagnosticsStorageAccountName": {
             "value": "ramdiag698"
