@@ -59,7 +59,7 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "winchester"
+            "value": "deanwinchester"
         },
         "virtualMachineRG": {
             "value": "ram"
