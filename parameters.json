@@ -6,10 +6,10 @@
             "value": "westus"
         },
         "networkInterfaceName": {
-            "value": "1winchester8666"
+            "value": "1winchester28666"
         },
         "networkSecurityGroupName": {
-            "value": "1winchester78-nsg"
+            "value": "01winchester78-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -29,28 +29,28 @@
             ]
         },
         "subnetName": {
-            "value": "subway1"
+            "value": "subway177"
         },
         "virtualNetworkName": {
-            "value": "ram11-vnet"
+            "value": "ram112-vnet"
         },
         "addressPrefixes": {
             "value": [
-                "10.0.8.0/24"
+                "10.0.6.0/24"
             ]
         },
         "subnets": {
             "value": [
                 {
-                    "name": "default1",
+                    "name": "net1",
                     "properties": {
-                        "addressPrefix": "10.0.8.0/24"
+                        "addressPrefix": "10.0.9.0/24"
                     }
                 }
             ]
         },
         "publicIpAddressName": {
-            "value": "winchester2171-ip"
+            "value": "winchester2188-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -59,10 +59,10 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "deanwinchester12"
+            "value": "deanwinchester218"
         },
         "virtualMachineRG": {
-            "value": "ram"
+            "value": "ram5"
         },
         "osDiskType": {
             "value": "Premium_LRS"
@@ -77,7 +77,7 @@
             "value": "Venkatasudheer@217"
         },
         "diagnosticsStorageAccountName": {
-            "value": "ramdiag61981"
+            "value": "ramdiag761991"
         },
         "diagnosticsStorageAccountId": {
             "value": "Microsoft.Storage/storageAccounts/ramdiag698"
