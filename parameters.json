@@ -6,10 +6,10 @@
             "value": "westus"
         },
         "networkInterfaceName": {
-            "value": "1winchester28666"
+            "value": "winchester866"
         },
         "networkSecurityGroupName": {
-            "value": "01winchester78-nsg"
+            "value": "winchester-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -29,28 +29,28 @@
             ]
         },
         "subnetName": {
-            "value": "subway177"
+            "value": "default"
         },
         "virtualNetworkName": {
-            "value": "ram112-vnet"
+            "value": "ram-vnet"
         },
         "addressPrefixes": {
             "value": [
-                "10.0.6.0/24"
+                "10.0.7.0/24"
             ]
         },
         "subnets": {
             "value": [
                 {
-                    "name": "net1",
+                    "name": "default",
                     "properties": {
-                        "addressPrefix": "10.0.9.0/24"
+                        "addressPrefix": "10.0.7.0/24"
                     }
                 }
             ]
         },
         "publicIpAddressName": {
-            "value": "winchester2188-ip"
+            "value": "winchester-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -59,10 +59,10 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "deanwinchester218"
+            "value": "winchester"
         },
         "virtualMachineRG": {
-            "value": "ram5"
+            "value": "ram"
         },
         "osDiskType": {
             "value": "Premium_LRS"
@@ -74,10 +74,10 @@
             "value": "sudheer217"
         },
         "adminPassword": {
-            "value": "Venkatasudheer@217"
+            "value": null
         },
         "diagnosticsStorageAccountName": {
-            "value": "ramdiag761991"
+            "value": "ramdiag698"
         },
         "diagnosticsStorageAccountId": {
             "value": "Microsoft.Storage/storageAccounts/ramdiag698"
