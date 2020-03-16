@@ -1,4 +1,4 @@
-{
++{
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
@@ -6,7 +6,7 @@
             "value": "westus"
         },
         "networkInterfaceName": {
-            "value": "winchester866"
+            "value": "winchester900"
         },
         "networkSecurityGroupName": {
             "value": "winchester-nsg"
